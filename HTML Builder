@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Marina's Website</title>
+    </head>
+    <body>
+        <h1>Marina's Website</h1>
+        <h2>About Me</h2>
+        <p>I am a sophmore at the University of Washington.</p>
+        <p>I was born and raaised in Boston, Massachusetts.</p>
+        <h2>My Favorite Sites</h2>
+        <u1>
+
+            <li>
+                <a href="https://www.youtube.com/user/gretchenlovesbeauty">Youtube</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCNtdcQMN2szPPtp5EWluEqQ"Youtube</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCAOX-sTxXp8ziwInLvBQCjw"Youtube</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UC-v8VCVpbxNGXX7BZOzHLHA"Youtube</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCiGWpX9oCmMu3hRUV_ZBvpg"Youtube</a>
+            </li>
+        </u1>
+        <h2>My Favorite Pictures</h2>
+        <a href="https://minidoodledogs.com/wp-content/uploads/bb-plugin/cache/Teacup-Goldendoodle-Utah-Idaho-New_York-Philadephia-Massachussets-Georgia-Virginai-California-Washington-Goldendoodle-Puppies-Golden-doodle-Dog-0001-1-768x1024-circle.jpg">
+            <img src="https://minidoodledogs.com/goldendoodles/" titie="Baby Goldendoole" style="width100xp;height:100px;margin:5xp">
+        </a>
+        <a href="https://i.pinimg.com/originals/c8/38/66/c83866df64257d29c60056ff7bd4dd59.jpg">
+            <img src="https://www.pinterest.com/pin/147985537736877990/?lp=true" title="Mother and Daughter Goldendoole" style="width100xp;height:100xp;margin:5xp">
+
+        <a href="https://youtube.com">
+            <img src="https://pmcvariety.files.wordpress.com/2017/09/youtube-logo.png?w=896&h=504&crop=1" title="Youtube" style="width100xp;height:100xp;margin:5xp">
+        </a>
+
+        
+    </body>
+</html>
