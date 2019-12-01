@@ -1,45 +1,48 @@
 body {
     background: black;
-    color: #80c0c0 }
-   a:link { color: #ff8080 }
-    a:visited { color: #ff0000 }
-    a:active { color: #a05050 }
-    a.case1:link { background: green }
-    p:first-line { margin-left: 25px }
-    div.foo:first-line {
+    color: #*fuchsia }
+        a:link { color: #00ff00 }
+        a:visited { color: #ae00ff }
+        a:active { color: #50a093 }
+        a.case1:link { background: rgb(0, 19, 128) }
+        p:first-line { margin-left: 100px }
+        div.foo:first-line {
     font-weight: bold;
-    margin-left: 30px }
+    margin-left: 100px }
       div:first-letter {
-    font-size: x-large; 
+    font-size: large; 
     color: #ffffff }
       ul ul li {
-    font-size: x-large; 
+    font-size: large; 
     font-decoration: italic }
-      h2 em { font-weight: 900 }
+      h2 em { font-weight: 1000 }
       h2.ex1 {
-    color: green;       
-    line-height: 50px; 
-    font-size: 40px }
+    color: blue;       
+    line-height: 60px; 
+    font-size: 50px }
        .funkyclass {
     font: 36pt/40pt courier;
     font-variant: small-caps;
-    border: thick dashed blue }
+    border: thin dashed purple }
    #tagid1 {
-    padding: 20px; 
-    border: 20px groove #ffffff }
+    padding: 30px; 
+    border: 30px groove #ffffff }
       .class1, #tagid2 { font-family: 'comic sans ms', fantasy; color: rgb(100%,100%,0%) }
       h1, h2, div.class5, blockquote { background: #000080 }
      p.special {
     font: 12pt/14pt sans-serif;
-    margin: 5px 0px 2px 25px;
-    border: medium dashed #ff0000;
-    background: white url(http://www.foo.com/image.gif) repeat-x fixed top right }
+    margin: 10px 0px 2px 25px;
+    border: round #ff0000;
+    img {
+        float: right;}
+    background: white url(https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/Maltese.jpg) repeat-x fixed top left }
       blockquote {
     margin-left: 2cm; 
-    color: #00ff00 }
+    color: #ff0000 }
      .part1 {
-    font-size: xx-large; 
+    font-size: x-large; 
     color: #808000 }
       h6 {
-    font-size: xx-small ! important;
+    font-size: x-small ! important;
     color: red ! important }
+
